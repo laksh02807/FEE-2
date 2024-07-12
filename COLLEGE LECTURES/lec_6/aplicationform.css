@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(234, 223, 223);
+}
+header{
+    background-color: antiquewhite;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div1{
+    background-color: antiquewhite;
+    border: solid black;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 1px;
+    border-radius: 10px;
+}
+.div2{
+    text-align: center;
+    background-color: rgb(139, 110, 72);
+    text-decoration:underline ;
+    margin: 0%;
+    padding: 10px;
+    
+}
+.div3{
+    color: rgb(5, 5, 5);
+    padding: 20px;
+    font-size:x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:800;
+}
+input{
+    size-adjust: 20px;
+}
