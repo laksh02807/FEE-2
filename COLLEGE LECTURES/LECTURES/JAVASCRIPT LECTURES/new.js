@@ -9,7 +9,8 @@
 // let a =20;
 // console.log(a);
 // // The variable cannot be re-declared but can be updated. A block scope variable
-
+// ehyrtfhrgtfygdr
+// wt4rhywfhyrwhg5ry
 // const a = 10;
 // console.log(a);
 // a = 30;
